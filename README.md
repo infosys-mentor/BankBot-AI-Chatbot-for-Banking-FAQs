@@ -1,4 +1,5 @@
-# BankBot – AI Chatbot for Banking FAQs
+#BankBot AI — FAQ Chatbot for Banking
+
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![AI](https://img.shields.io/badge/AI-NLP-green)
@@ -11,21 +12,18 @@
 ## Project Description
 
 **BankBot** is an AI-powered chatbot designed to intelligently answer **banking-related Frequently Asked Questions (FAQs)** using **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**.
-The system enables users to interact in natural language and receive accurate, context-aware responses related to banking services such as accounts, loans, interest rates, cards, and general policies.
-
+An AI-powered chatbot built using Streamlit and LangChain to answer frequent banking questions. It handles customer queries and displays responses via a simple UI.
 This project demonstrates practical implementation of **LLM-based conversational AI** and is suitable for **Infosys certification**, **academic evaluation**, and **real-world deployment** scenarios.
 
 ---
 
 ## Features
 
-* 💬 Natural language conversation for banking FAQs
-* 🧠 Context-aware AI responses
-* 🔁 Configurable LLM backend (easy to switch models)
-* ⚡ Fast response generation
-* 🏦 Domain-specific prompt tuning for banking
-* 🖥️ Easy local execution
-* 📄 Clean and modular project structure
+- AI-powered responses
+- Easy UI with Streamlit
+- Secure authentication
+- Modular architecture
+
 
 ---
 
@@ -52,6 +50,12 @@ This project demonstrates practical implementation of **LLM-based conversational
 ---
 
 ## Tech Stack
+- Python
+- Streamlit
+- LangChain
+- Groq API
+- SQLite
+
 
 ### Programming Language
 
